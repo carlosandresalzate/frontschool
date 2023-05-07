@@ -1403,5 +1403,3 @@ FodyWeavers.xsd
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,linux,adobe,c,c++,cmake,dotenv,dreamweaver,emacs,gatsby,git,gitbook,grunt,kate,kdevelop4,nextjs,ninja,node,powershell,prepros,python,qml,qt,qtcreator,react,reactnative,sass,ssh,stylus,sublimetext,vim,virtualenv,visualstudio,windows,yeoman,zsh
 
-# Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
-
